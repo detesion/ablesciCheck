@@ -52,13 +52,13 @@ def main():
     cookie_list = cookies.split("&")
     results = []
     for i, cookie in enumerate(cookie_list):
-        print(f"正在签到第 {i + 1} 个账号...")
+        # print(f"正在签到第 {i + 1} 个账号...")
         try:
             result = AbleSci(cookie).main()
             results.append(result)
         except Exception as e:
             results.append({"status": "error", "message": f"第 {i + 1} 个账号签到失败: {str(e)}"})
-        print(f"第 {i + 1} 个账号签到完成")
+        # print(f"第 {i + 1} 个账号签到完成")
 
     # 输出所有结果
     print("\n签到结果汇总：")
