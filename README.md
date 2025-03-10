@@ -2,7 +2,11 @@
 
 一个基于青龙面板的科研通自动签到工具，支持多账号管理、推送通知和异常处理。
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2738%27%20height=%2710%27/%3e)![image](https://img.shields.io/github/stars/sheetung/ablesciCheck)![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2739%27%20height=%2710%27/%3e)![image](https://img.shields.io/github/forks/sheetung/ablesciCheck)![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2745%27%20height=%2710%27/%3e)![image](https://img.shields.io/github/issues/sheetung/ablesciCheck)
+![image](https://img.shields.io/github/stars/sheetung/ablesciCheck)
+
+![image](https://img.shields.io/github/forks/sheetung/ablesciCheck)
+
+![image](https://img.shields.io/github/issues/sheetung/ablesciCheck)
 
 ## 🌟 功能特性
 
@@ -85,6 +89,5 @@ export BARK_PUSH="your_bark_key"
 
 - 提交问题：[GitHub Issues](https://github.com/sheetung/ablesciCheck/issues)
 - 代码贡献：[Fork & Pull Request](https://github.com/sheetung/ablesciCheck/pulls)
-- 联系作者：sheetung@example.com
 
 > 开源协议：MIT License
